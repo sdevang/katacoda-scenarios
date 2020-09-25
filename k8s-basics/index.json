@@ -58,6 +58,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "kubernetes"
   }
 }
